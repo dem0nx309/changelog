@@ -1,0 +1,23 @@
+### 27/07/2026
+
+#### :white_check_mark: Ajouts
+
+- Ajout d'une option pour garder ou non sa bibliothèque à l'import
+- Ajout de l'export de votre bibliothèque au format MyAnimeList (compatible AniList et MyAnimeList)
+- Ajout d'un système de détection des doublons via les ID AniList / MyAnimeList dans les formulaires d'édition et d'ajout
+- Ajout de l'affichage des plateformes de diffusion dans l'agenda
+- Ajout dans l'agenda de l'option d'avoir son agenda personnel
+
+#### :zap: Améliorations / Modifications
+- Optimisation de certaines requêtes API
+- Changement de la barre de progression de la page d'accueil pour la rendre similaire à celle de la bibliothèque
+- Il est maintenant possible de quitter la recherche avec Échap ou en cliquant ailleurs
+
+#### :tools: Corrections de bugs
+- Il est maintenant possible de supprimer les dates dans les pages d'édition et d'ajout sans avoir un 0
+- Il est maintenant impossible de changer la valeur d'un champ numérique avec la molette de votre souris
+- Les filtres de recherche de l'explorer (VF, pays d'origine et source) sont de nouveau fonctionnels
+- La note 0 est maintenant bien prise en compte dans le graphique « Notes utilisateurs »
+- Correction d'une petite faute dans le texte des pages animes
+
+---
